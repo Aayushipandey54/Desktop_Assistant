@@ -1,12 +1,12 @@
-## Vidur - Personal Assistant
+## Yujit - Deaktop Assistant
 
 ## Description:
 
-🚀 Enthusiastically developed **Vidur**, a personalized voice-enabled assistant to streamline daily tasks and enhance efficiency. Vidur, equipped with speech recognition capabilities, greets the user with a warm salutation and provides real-time updates on the day.
+🚀 Enthusiastically developed **Yujit**, a personalized voice-enabled assistant to streamline daily tasks and enhance efficiency. Yujit, equipped with speech recognition capabilities, greets the user with a warm salutation and provides real-time updates on the day.
 
 ## Key Features:
 
-- **Greetings and Time-based Interaction:** Vidur greets the user dynamically based on the time of the day, creating a personalized and engaging experience.
+- **Greetings and Time-based Interaction:** Yujit greets the user dynamically based on the time of the day, creating a personalized and engaging experience.
   
 - **Voice-Activated Wikipedia Search:** Utilizes speech recognition to provide concise Wikipedia summaries on a variety of topics.
   
@@ -28,4 +28,4 @@
 
 ## Conclusion:
 
-🌟 Vidur serves as a testament to proactive problem-solving, blending technology and convenience to create a personalized digital companion for enhanced productivity.
+🌟 Yujit serves as a testament to proactive problem-solving, blending technology and convenience to create a personalized digital companion for enhanced productivity.
